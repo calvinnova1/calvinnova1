@@ -32,7 +32,7 @@ Model Deployment
 
 📫 Connect With Me
 
-Twitter: @calvinnovaa.com
+X (Twitter): https://x.com/Calvinnovaa
 GitHub: https://github.com/calvinnova1
 ⭐  Always lerning and building
 ---
