@@ -23,7 +23,5 @@ I am passionate about Machine Learning, Data Science, and engineering intelligen
 📫 Connect With Me
 *   X (Twitter): [@Calvinnovaa](https://x.com/Calvinnovaa)
 
-*   ⭐ Always learning and building.
-*   **LinkedIn:** [Your LinkedIn Link Here]
+⭐ Always learning and building.
 
-*⭐ Always learning and building.*
