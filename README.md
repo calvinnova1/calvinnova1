@@ -1,40 +1,29 @@
- Hi, I'm Calvin 👋
+Hi, I'm Calvin 👋
 
- Machine Learning Enthusiast | Data Analyst | Data scientist | Python Developer
+Machine Learning Engineer | Data Scientist | Python Developer
 
-I'm passionate about Machine Learning, Data Science, and building intelligent solutions with Python.
+I am passionate about Machine Learning, Data Science, and engineering intelligent, data-driven solutions to real-world problems. 
 
-🚀 Currently Working On
+📌 Currently Working On
+*   AAPL Stock Price Prediction — Building time-series/regression models to forecast stock trends.
+*   Flask Web Applications — Deploying machine learning models into interactive web interfaces.
+*   Advanced Data Analysis Projects — Extracting actionable insights from complex datasets.
 
-AAPL Stock Price Prediction
-Machine Learning Projects
-Flask Web Applications
-Data Analysis Projects
+🛠 Skills & Tools
+*   Languages: Python, SQL
+*   Data Science & ML: Scikit-Learn, Pandas, NumPy, Predictive Modeling
+*   Web Frameworks: Flask
+*   Tools & Version Control: Git, GitHub
 
-🛠️ Skills
-
-Python
-Machine Learning
-Data Analysis
-Data science
-Pandas
-NumPy
-Scikit-Learn
-Flask
-Git & GitHub
-
-🌱 Currently Learning
-
-Advanced Machine Learning
-MLOps
-Deep Learning
-Model Deployment
+⏳ Currently Learning
+*   Advanced Machine Learning Architectures
+*   MLOps (Model Deployment, Monitoring & Pipelines)
+*   Deep Learning frameworks
 
 📫 Connect With Me
+*   X (Twitter): [@Calvinnovaa](https://x.com/Calvinnovaa)
 
-X (Twitter): https://x.com/Calvinnovaa
-GitHub: https://github.com/calvinnova1
-⭐  Always lerning and building
----
+*   ⭐ Always learning and building.
+*   **LinkedIn:** [Your LinkedIn Link Here]
 
-⭐ Always learning and building.
+*⭐ Always learning and building.*
