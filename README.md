@@ -1,4 +1,4 @@
- Hi, I'm Emmanuel 👋
+ Hi, I'm Calvin 👋
 
  Machine Learning Enthusiast | Data Analyst | Data scientist | Python Developer
 
@@ -32,7 +32,7 @@ Model Deployment
 
 📫 Connect With Me
 
-Website: https://calvinnova.com
+Twitter: https://calvinnovaa.com
 GitHub: https://github.com/calvinnova1
 ⭐  Always lerning and building
 ---
