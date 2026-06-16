@@ -1,16 +1,40 @@
-## Hi there 👋
+ Hi, I'm Emmanuel 👋
 
-<!--
-**calvinnova1/calvinnova1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Machine Learning Enthusiast | Data Analyst | Data scientist | Python Developer
 
-Here are some ideas to get you started:
+I'm passionate about Machine Learning, Data Science, and building intelligent solutions with Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Currently Working On
+
+AAPL Stock Price Prediction
+Machine Learning Projects
+Flask Web Applications
+Data Analysis Projects
+
+🛠️ Skills
+
+Python
+Machine Learning
+Data Analysis
+Data science
+Pandas
+NumPy
+Scikit-Learn
+Flask
+Git & GitHub
+
+🌱 Currently Learning
+
+Advanced Machine Learning
+MLOps
+Deep Learning
+Model Deployment
+
+📫 Connect With Me
+
+Website: https://calvinnova.com
+GitHub: https://github.com/calvinnova1
+⭐  Always lerning and building
+---
+
+⭐ Always learning and building.
